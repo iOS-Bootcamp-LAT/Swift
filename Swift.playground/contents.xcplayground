@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1 Var_Let_Functions'/>
+        <page name='2 tuples'/>
+        <page name='3 arrays'/>
+        <page name='4 dictionaries'/>
+        <page name='5 control flow'/>
+        <page name='6 operators'/>
+        <page name='7 sets'/>
+        <page name='8 optionals'/>
+        <page name='9 Class and Struct'/>
+        <page name='10 protocol'/>
+        <page name='11 enum'/>
+        <page name='12 extensions'/>
+        <page name='13 generics'/>
+        <page name='14 error handling'/>
+        <page name='15 advanced features for arrays'/>
+        <page name='16 TypeCasting'/>
+        <page name='17 Associated Values Enums'/>
+    </pages>
+</playground>
