@@ -18,5 +18,6 @@
         <page name='15 advanced features for arrays'/>
         <page name='16 TypeCasting'/>
         <page name='17 Associated Values Enums'/>
+        <page name='18 Automatic Reference Counting'/>
     </pages>
 </playground>
